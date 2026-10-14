@@ -1,4 +1,4 @@
-# Demostración para Instructores - Gemini Enterprise: IA que transforma la experiencia del client
+# Demostración para Instructores - Gemini Enterprise: IA que transforma la experiencia del cliente
 
 El propósito de este documento es sugerir la demostación que el instructor puede realizar durante la entrega del seminario Gemini Enterprise: IA que transforma la experiencia del cliente. Los siguientes pasos son generales, se entiende que el instructor tiene las habilidades para comprenderlo. Están organizados en orden de los slides de Power Point adjuntos. 
 
